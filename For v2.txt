@@ -1,0 +1,12 @@
+Follow AllAboutCircuits forum post and adjust
+
+Remove values ("1000uF", "0.1uF", ...)
+
+Update/remove specifications on the backside
+	Fill in Forward: FWD = 5 V, REV = 0 V etc.
+
+Trace width for high currents
+
+GND connector from microcontroller for PWM
+
+Distance between holes needs to be more reasonable
